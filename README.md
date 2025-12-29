@@ -12,7 +12,7 @@ Visi utama kami adalah menciptakan masyarakat digital yang literat dan mandiri s
 ### Pilar Utama Layanan Kami:
 1.  **Akurasi Data:** Verifikasi berlapis untuk memastikan setiap informasi valid.
 2.  **Kemandirian Analisis:** Pandangan yang objektif tanpa intervensi pihak ketiga.
-3.  **Inovasi Berkelanjutan:** Mengadopsi teknologi terbaru seperti AI dan Big Data.
+3.  **Inovasi Berkelanjutan:** Mengadopsi teknologi terbaru seperti AI serta Big Data.
 
 ---
 
